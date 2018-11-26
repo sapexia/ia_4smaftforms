@@ -82,7 +82,7 @@ dataset
 
 vocab_size = len(vocab)
 
-# The embedding dimension
+# Embeber la dimensión
 embedding_dim = 256
 
 # Number of RNN units
